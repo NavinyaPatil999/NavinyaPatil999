@@ -7,7 +7,7 @@
 and also learning programming for App development and Python projects.
   
   ⚡skills
-  * Programming languages: C, C++, Python, SQL.
+  * Programming languages: C, C++, HTML, Python, SQL.
   * Databases: SQL, MySQL.
   * International Languages: French, English.
     
